@@ -31,30 +31,8 @@
 </p>
 
 
-### 🌟 Data Visualization Tools
-
-<table width="70" align="left">
-<tr>
-    <td align='center' width="70">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
-    </td>
-    <td align='center' width="100">
-        <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
-    </td>
-    <td align='center' width="70">
-        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/seaborn.png">
-    </td>
-    <td align='center'  width="70">
-        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wgshctk7kjdxl6omgwra">
-    </td>
-    <td align='center'  width="100">
-        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/matplotlib.png">
-    </td>
-</tr>
-</table>
-
-
 ### 🏫 Learning Platforms
+
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Coursera-000000?style=flat&logo=Coursera&logoColor=0056D2" />
 </a>
@@ -107,4 +85,29 @@
 <a href="https://github.com/ShruAgarwal/img-shields-io">
   <img align="center" src="https://img.shields.io/badge/Canva-000000?style=flat&logo=canva&logoColor=00C4CC" />
 </a>
+
+
+
+### 🌟 Data Visualization Tools
+
+<table width="70" align="left">
+<tr>
+    <td align='center' width="70">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+    </td>
+    <td align='center' width="100">
+        <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
+    </td>
+    <td align='center' width="70">
+        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/seaborn.png">
+    </td>
+    <td align='center'  width="70">
+        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wgshctk7kjdxl6omgwra">
+    </td>
+    <td align='center'  width="100">
+        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/matplotlib.png">
+    </td>
+</tr>
+</table>
+
 
