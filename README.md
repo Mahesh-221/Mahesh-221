@@ -9,7 +9,7 @@
  - 📊 I love finding hidden patterns & Solving complex problems.
  - 🚀 Learning about latest technologies like Web3 and Crypto 
  - 🀄 Love Anime, Manga & Books
- - 👉 Checkout my website <a href="mahesh.popsy.site"><img align="center" src="https://img.icons8.com/clouds/2x/domain.png" width="35" >
+ - 👉 Checkout my website <a href="https://mahesh.popsy.site"><img align="center" src="https://img.icons8.com/clouds/2x/domain.png" width="35" >
  </a> 
  
  
