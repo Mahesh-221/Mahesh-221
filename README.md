@@ -1,144 +1,111 @@
 <h2 align="center">
-  Hey folks!
+  Hi, I'm Mahesh!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/ParthGohil21/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/ParthGohil21/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Parth;A%20Passionate%20ML%20Dev%20from%20India!;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 
+ - 🌱 Data Analyst, Aspiring to become Data Scientist
+ - 🐍 Building projects using Python and PowerBI/Tableau
+ - 📊 I love finding hidden patterns and Solving complex problems.
+ - 🚀 Learning about upcoming technologies like Web3 and Cryptocurrency 
+ - 🀄 Love Anime, Manga & Books
+ - 👉 Checkout my website <a href="mahesh.popsy.site"><img align="center" src="https://img.icons8.com/clouds/2x/domain.png" width="35" >
+ </a> 
+ 
+ 
+<h2 align="center">📬 Connect with me </h2> 
+<p align="center">
+ <img src="https://c.tenor.com/JJEu0wSl3MEAAAAC/naruto-hi.gif" width="350"/>
+</p>
 <!-- Social Media Handles -->
 <p align="center">
-  <a href="https://twitter.com/prthgo">
-  <img align="center" src="https://img.shields.io/twitter/follow/prthgo?label=Twitter&logo=twitter&style=for-the-badge" />  
+  <a href="https://www.linkedin.com/in/mahesh221/">
+  <img align="center" src="https://img.icons8.com/nolan/2x/linkedin.png" width="50" />
 </a>
-  <a href="https://www.linkedin.com/in/prthgo/">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://twitter.com/mahi_verse">
+  <img align="center" src="https://img.icons8.com/nolan/2x/twitter.png" width="50" />  
 </a>
-  <a href="https://www.kaggle.com/parth215">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-  <a href="https://discord.gg/DBNh52mBdQ">
-  <img align="center" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-  <a href="https://github.com/ParthGohil21">
-  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  <a href="https://instagram.com/prthgo">
-  <img align="center" src="https://img.shields.io/badge/prthgo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://medium.com/@Mahesh221">
+  <img align="center" src="https://img.icons8.com/nolan/2x/medium-new.png" width="50" />
 </a>
 </p>
 
-<h2 align="center">✍ Follow My Blog </h2>
-<p align="center">
-  <a href="https://prthgo.medium.com/">
-  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+
+### 🏫 Learning Platforms
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Coursera-000000?style=flat&logo=Coursera&logoColor=0056D2" />
 </a>
-</p>
-
-<!-- About me section-->
-<h2 align="center"> ABOUT ME </h2>
-<p align="center">
-  
-  - 👋 Hello, I'm Parth
-  - 🤖 Machine Learning Engineer.
-  - 🧠 Currently focusing on Computer Vision and Deep Learning in general.
-  - ❤️‍🔥 Kaggler by heart.
-  - 🗾 Fan of Anime and Japan.
-  - 🏫 Undergraduate in B.com with Statistics.
-  - 🤗 Always excited to collaborate and growing together.
-  - 📥 Reach out me through my mail: parthgohil740@gmail.com or [Twitter](https://twitter.com/prthgo).
-  
-  
-</p>
-
-
-<h3 align="center"> Visitors count </h3>
-<p align="center">
-  <a href="https://github.com/ParthGohil21/github-profile-count">
-    <img align="center" src="https://profile-counter.glitch.me/{ParthGohil21}/count.svg" />
-    </a>
-  </p>
-
-
-<!--Github Stats-->
-<h2 align="center">⚡ Github</h2>
-<a href="https://github.com/ParthGohil21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParthGohil21&theme=blue-green&show_icons=true)" />
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Khan%20Academy-000000?style=flat&logo=Khan%20Academy&logoColor=14BF96" />
 </a>
-<a href="https://github.com/ParthGohil21/github-readme-streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthGohil21&theme=chartreuse-dark" />
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/YouTube-000000?style=flat&logo=youtube&logoColor=FF0000" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-000000?style=flat&logo=kaggle&logoColor=20BEFF" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Stack_Overflow-000000?style=flat&logo=stackoverflow&logoColor=F58025" />
 </a>
 
-<h2 align="center">🛠 Languages and Tools</h2>
 
-<table width="100" align="center">
+### 🧰 Tools I Use 
+
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=yellow" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Pandas-yellow?style=flat&logo=pandas&logoColor=150458" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/NumPy-white?style=flat&logo=numpy&logoColor=013243" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat&logo=visual%20studio%20code&logoColor=007ACC" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Colab-000000?style=flat&logo=googlecolab&logoColor=F9AB00" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Conda-000000?style=flat&logo=anaconda&logoColor=44A833" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/GIT-000000?style=flat&logo=git&logoColor=E44C30" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/windows%20terminal-white?style=flat&logo=windows%20terminal&logoColor=4D4D4D" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+</a>
+<a href="https://github.com/ShruAgarwal/img-shields-io">
+  <img align="center" src="https://img.shields.io/badge/Canva-000000?style=flat&logo=canva&logoColor=00C4CC" />
+</a>
+
+
+### 🌟 Data Visualization Tools
+
+<table width="70" align="left">
 <tr>
-    <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+    <td align='center' width="70">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
     </td>
     <td align='center' width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg">
+        <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png">
     </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg">
+    <td align='center' width="70">
+        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/seaborn.png">
     </td>
-    <td align='center'  width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+    <td align='center'  width="70">
+        <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wgshctk7kjdxl6omgwra">
     </td>
     <td align='center'  width="100">
         <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/matplotlib.png">
     </td>
 </tr>
-<tr>
-     <td align='center' width="100">
-        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/seaborn.png">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60">
-    </td>
-    <td align='center' width="100">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'  width="100">
-        <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg">
-    </td>
-    <td align='center'  width="100">
-        <img src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/kaggle_logo.png">
-    </td>
-</tr>
 </table>
 
 
-
-<h2 align="center"> 🌱 Learning Resources </h2>
-<p align="center">
-  <a href="https://github.com/ParthGohil21/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="https://github.com/ParthGohil21/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-</p>
-
-
-
-<!-- Journal and Hosting-->
-<h2 align="center"> 📃 Productivity & Cloud Platforms ☁ </h2>
-<p align="center">
-  <a href="https://github.com/ParthGohil21/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-<a href="https://github.com/ParthGohil21/img-shields-io">
-  <img align="center" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-</a>
-<a href="https://github.com/ParthGohil21/img-shields-io">
-  <img align="center" src="https://github.com/ShruAgarwal/ParthGohil21-1/blob/main/streamlit_logo.png" width="150"/>
-</a>
-</p>
-
-
-
-<h2 align="center">📈 Activity</h2>
-<a href="https://github.com/ParthGohil21/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ParthGohil21&theme=material-palenight" /> </a>
