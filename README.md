@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/mahesh221/">
   <img align="center" src="https://img.icons8.com/nolan/2x/linkedin.png" width="50" />
 </a>
-  <a href="https://twitter.com/mahi_verse">
+  <a href="https://twitter.com/mahesh_221">
   <img align="center" src="https://img.icons8.com/nolan/2x/twitter.png" width="50" />  
 </a>
   <a href="https://medium.com/@Mahesh221">
